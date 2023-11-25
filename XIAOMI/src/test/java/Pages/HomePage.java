@@ -47,7 +47,7 @@ public class HomePage {
 						}
 					}
 				}
-			} catch (Exception e) {
+			
 				
 			}
 		}

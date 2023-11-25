@@ -48,7 +48,6 @@ public class ConnectedHome {
 					}
 				}
 			}
-		} catch (Exception e) {
 
 		}
 	}

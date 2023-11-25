@@ -27,8 +27,6 @@ public class WishListStepDef {
 
 	@When("admin access the wish list page")
 	public void admin_access_the_wish_list_page() {
-		Config.confChrome();
-		Config.driver = new ChromeDriver();
 		String url = "https://mistore.com.tn/listedesouhaits/";
 		Config.driver.get(url);
 	}
